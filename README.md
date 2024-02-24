@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Darekar</h1>
 <h3 align="center">A passionate technology enthusiast from India</h3>
-sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3hwOKDGVmr4Q7Z4B2fCfff&ust=1708888824147000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDZ8ozZxIQDFQAAAAAdAAAAABBY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar090804&label=Profile%20views&color=0e75b6&style=flat" alt="omkar090804" /> </p>
 
