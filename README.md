@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omkar Darekar</h1> <h3 align="center">A passionate technology enthusiast from India</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar090804&label=Profile%20views&color=0e75b6&style=flat" alt="omkar090804" /> </p>  <li>-🌱 I’m currently learning Core Java Programming and Full Stack Web Development </li><li>- 📫 How to reach me <a href="mailto:omkardarekar0908@gmail.com">omkardarekar0908@gmail.com</a></li>  <li>- ⚡ Fun fact I am always intrested in learning new skills.  </li> 
+<h1 align="center">Hi 👋, I'm Omkar Darekar</h1> <h3 align="center">A passionate technology enthusiast from India</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar090804&label=Profile%20views&color=0e75b6&style=flat" alt="omkar090804" /> </p>  <li>-🌱 I’m currently learning Core Java Programming and Full Stack Web Development </li><li>- 📫 How to reach me <a href="mailto:omkardarekar0908@gmail.com">omkardarekar0908@gmail.com</a></li> 
+<li>-🔗 Connect with me on : <a href="linktr.ee/omkardarekar">linktr.ee/omkardarekar</a></li>
+<li>- ⚡ Fun fact I am always intrested in learning new skills.  </li> 
 
 <br>
 <p align="left>"  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omkar090804" alt="Omkar090804" /></a> </p><h3  </br> 
