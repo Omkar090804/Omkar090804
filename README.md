@@ -5,6 +5,7 @@
 </p>
 
 <li>🌱 I’m currently learning Core Java Programming and Full Stack Web Development </li>
+<li>🚀 Check out my portfolio: <a href="https://omkar-folio-v2.vercel.app" target="_blank">omkar-folio-v2.vercel.app</a></li>
 <li>📫 How to reach me: <a href="mailto:omkardarekar0908@gmail.com">omkardarekar0908@gmail.com</a></li>
 <li>🔗 Connect with me on: <a href="https://linktr.ee/omkardarekar">linktr.ee/omkardarekar</a></li>
 <li>⚡ Fun fact: I am always interested in learning new skills.</li>
