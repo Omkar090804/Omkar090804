@@ -14,13 +14,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omkar090804" alt="Omkar090804" /></a>
 </p>
 
-<h3 align="left">My Holopin Badges:</h3>
-<p align="center">
-  <a href="https://holopin.io/@omkar090804">
-    <img src="https://holopin.me/omkar090804" alt="Holopin Badges" />
-  </a>
-</p>
-
 <h3>Connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/omkar darekar" target="blank">
