@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/omkar darekar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar darekar" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@omkardarekar0908" target="blank">
+  <a href="https://www.hackerrank.com/profile/omkardarekar0908" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@omkardarekar0908" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/omkar_0908" target="blank">
