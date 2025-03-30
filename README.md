@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=omkar090804&label=Profile%20views&color=0e75b6&style=flat" alt="omkar090804" />
 </p>
 
-<li>🌱 I’m currently learning Core Java Programming and Full Stack Web Development </li>
+<li>🌱 I’m currently learning Full Stack Web Development and AI/ML </li>
 <li>🚀 Check out my portfolio Website: <a href="https://omkar-folio-v2.vercel.app" target="_blank">omkar-folio-v2.vercel.app</a></li>
 <li>📫 How to reach me: <a href="mailto:omkardarekar0908@gmail.com">omkardarekar0908@gmail.com</a></li>
 <li>🔗 Connect with me through: <a href="https://linktr.ee/Omkar_Darekar">Linktree</a></li>
